@@ -40,9 +40,6 @@ However, this method uses accent graves, which I think is just awful. I do not k
 ### Images
 
 ![Test Logo](logo.png)
-Format: ![Alt Text](url)
-
-Let's see if that works.
 
 ### Links and Quotes
 http://github.com - automatic!
