@@ -48,5 +48,5 @@ Let's see if that works.
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-Oppenheimer quote (which he himself had translated from a Sanskrit version of the Baghavad Gita):
-> Now I am become Death, destroyer of worlds.
+Oppenheimer quote (which he himself had translated from a Sanskrit version of the Bhagavad Gita):
+> Now I am become Death, the destroyer of worlds.
